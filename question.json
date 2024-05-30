@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "question": "how do you correctly access a property on an object",
+        "answers": [
+            "firstPerson.name",
+            "firstPerson*name",
+            "firstPerson-name",
+            "firstPerson_name"
+        ],
+        "answerType": "code",
+        "questionType": "text",
+        "correctAnswer": "0"
+    },
+    {
+        "id": 2,
+        "question": "Who invented JavaScript?",
+        "answers": [
+            "Linus Torvalds",
+            "Tim Berners-Lee",
+            "Brendan Eich",
+            "Bert Bos"
+        ],
+        "answerType": "text",
+        "questionType": "text",
+        "correctAnswer": "2"
+    }
+]
